@@ -1173,3 +1173,7 @@ else:
     else:
 
         home_page()
+<<<<<<< HEAD
+=======
+
+>>>>>>> a2adb4f0f72cdf28e64be1553f3c53dd0b659863

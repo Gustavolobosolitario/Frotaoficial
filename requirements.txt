@@ -90,3 +90,7 @@ typing_extensions==4.12.2
 tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
+<<<<<<< HEAD
+=======
+
+>>>>>>> a2adb4f0f72cdf28e64be1553f3c53dd0b659863
