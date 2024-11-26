@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 web: streamlit run main.py --server.port $PORT --client.showErrorDetails=false
+=======
+web: streamlit run main.py --server.port $PORT --client.showErrorDetails=false
+>>>>>>> 382d674ab6b0dcbcdd581d7eab4663e068debdb4
